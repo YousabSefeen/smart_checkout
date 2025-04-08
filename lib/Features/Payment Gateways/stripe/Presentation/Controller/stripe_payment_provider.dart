@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 import '../../../../../Core/Error/failure.dart';
-import '../../../../../app_global_variables.dart';
+import '../../../../../Core/Global Components/app_global_variables.dart';
 import '../../../../../enums/payment_gateways.dart';
 import '../../../../../enums/payment_status.dart';
 import '../../Data/Models/create_user_model.dart';

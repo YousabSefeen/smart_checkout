@@ -1,6 +1,6 @@
 
 
-import 'enums/payment_gateways.dart';
+import '../../enums/payment_gateways.dart';
 
 class GlobalVariables {
 
